@@ -1,0 +1,6 @@
+{
+  "name": "Sınav Geri Sayım",
+  "description": "ATA AÖF ve KPSS Ön Lisans sınavları için etkileşimli ve kapsamlı geri sayım ve çalışma takip portalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
